@@ -1,0 +1,29 @@
+h1.intro {
+  color: #146ED6;
+
+}
+
+img {
+  width: 70%;
+  border-radius: 37%;
+
+}
+
+img.kid {
+  border-width: thick;
+  border-style: double;
+  border-color: #146ED6;
+}
+
+ul {
+  width: 20%;
+  margin: auto;
+
+}
+
+
+body {
+  text-align: center;
+  background-color: #DBE9F9;
+  font-family: fantasy;
+}
