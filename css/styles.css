@@ -27,3 +27,9 @@ body {
   background-color: #DBE9F9;
   font-family: fantasy;
 }
+
+.highlight-p {
+  background-color: yellow;
+  color: black;
+  border: red solid 3px;
+}
